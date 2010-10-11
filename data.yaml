@@ -1,0 +1,105 @@
+---
+ABBREVIATIONES:
+    SING:  SINGULARIS
+    PLUR:  PLURALIS
+    INF:   INFINITIVUS
+    ACT:   ACTIVUM
+    PAS:   PASSIVUM
+    PRAES: PRAESENS
+    PERF:  PERFECTUM
+    FUT:   FUTURUM
+    IMP:   IMPERATIVUS
+    CONI:  CONIUNCTIVUS
+    IND:   INDICATIVUS
+    SUP:   SUPINUS
+    IMPF:  IMPERFECTUM
+    1:     PRIMUS
+    2:     SECUNDUS
+    3:     TERTIUS
+    4:     QUARTUS
+    TERM:  TERMINATIONES
+TERM:
+    ACT:
+        SING:
+            1:
+                - m
+                - o
+            2: s
+            3: t
+        PLUR:
+            1: mus
+            2: tis
+            3: nt
+    PAS:
+        SING:
+            1:
+                - r
+                - or
+            2: ris
+            3: tur
+        PLUR:
+            1: mur
+            2: mini
+            3: ntur
+    PERF:
+        SING:
+            1: i
+            2: isti
+            3: it
+        PLUR:
+            1: imus
+            2: istis
+            3:
+                - erunt
+                - ere
+VERBA:
+    THEMATA:
+        PRAES:
+            1: a
+            2: e
+            3:
+            4: i
+        PERF:
+            1: av
+            2: u
+            3:
+            4: iv
+        SUP:
+            1: at
+            2: it
+            3: s/g/ct
+            4: it
+    TERM:
+        ACT:
+            SING:
+                1:
+                    - m
+                    - o
+                2: s
+                3: t
+            PLUR:
+                1: mus
+                2: tis
+                3: nt
+        PAS:
+            SING:
+                1:
+                    - r
+                    - or
+                2: ris
+                3: tur
+            PLUR:
+                1: mur
+                2: mini
+                3: ntur
+        PERF:
+            SING:
+                1: i
+                2: isti
+                3: it
+            PLUR:
+                1: imus
+                2: istis
+                3:
+                    - erunt
+                    - ere
