@@ -1,6 +1,8 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 use strict;
 use warnings;
+use 5.010;
+
 use autodie;
 use YAML::XS;
 #use Data::Dumper;
